@@ -23,7 +23,7 @@
     "graphlib": "*",
     "graphlib-dot": "*",
     "node-getopt": "*",
-    "npm": "^6.2.0",
+    "npm": "^12.2.0",
     "require-dir": "^1.0.0"
   },
   "devDependencies": {
